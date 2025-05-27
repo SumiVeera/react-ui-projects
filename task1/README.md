@@ -19,3 +19,9 @@ Vite
 ```bash
 npm run dev
 ```
+### Screenshot 1
+<img width="1511" alt="image" src="https://github.com/user-attachments/assets/dcae5e5c-e823-49dc-a109-7ec99ce94dfb" />
+
+### Screenshot 2
+<img width="1507" alt="image" src="https://github.com/user-attachments/assets/36ba64c9-41b1-4b6c-a2d9-97fb4cbc4161" />
+
