@@ -1,12 +1,22 @@
-# React + Vite
+# 🧮 CounterApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple counter application built using **React**, **Chakra UI**, and **Tailwind CSS**. It allows users to increment, decrement, and reset the counter with a clean and responsive UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Increment (+) and Decrement (–) buttons
+- Reset button to set counter to zero
+- Responsive design using Chakra UI + Tailwind CSS
+- Supports light and dark mode
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) (for fast build and dev environment)
+
+
+
+### Screen shot
+<img width="1270" alt="image" src="https://github.com/user-attachments/assets/20998e3a-da96-45b8-9ca8-159514a33c0f" />
