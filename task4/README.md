@@ -23,5 +23,7 @@ A simple React application that allows users to toggle between dark and light mo
 
 ## Screenshots
 <img width="1215" alt="image" src="https://github.com/user-attachments/assets/e4e3cb52-d805-46df-a8b2-cbfafb0192c8" />
+
+
 <img width="1195" alt="image" src="https://github.com/user-attachments/assets/395bd643-dfed-49d7-91c7-b2b9165d9b81" />
 
