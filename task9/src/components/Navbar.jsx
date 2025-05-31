@@ -29,7 +29,7 @@ function Navbar() {
         {/* Profile Avatar */}
         <Avatar
           size="sm"
-          name="Sumitha Veeras"
+          name="Sumitha Veera"
           src="/images/profile.jpg"
           className="cursor-pointer"
         />
