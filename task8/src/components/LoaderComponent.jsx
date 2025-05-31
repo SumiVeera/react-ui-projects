@@ -15,9 +15,8 @@ function LoaderComponent() {
       <Box className="p-8 flex items-center justify-center h-screen bg-gray-100">
         {loading ? (
           // You can switch between Spinner and Skeleton here
-          <Spinner size="xl" color="purple.500" thickness="4px" />
-          // OR Skeleton Example:
-          // <Skeleton height="100px" width="300px" borderRadius="md" />
+          <Spinner size="xl" color="purple.500" thickness="4px" speed="0.6s"/>
+          
         ) : (
           <Box
             p={6}
